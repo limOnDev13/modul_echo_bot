@@ -1,1 +1,4 @@
 .env
+config_data/__pycache__
+handlers/__pycache__
+lexicon/__pycache__
